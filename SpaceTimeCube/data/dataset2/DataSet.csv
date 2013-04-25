@@ -1,0 +1,850 @@
+route_id,obj_type,event,loc_name,evet,stop_lat,stop_lan,datetime
+14,,,Southbound St Mary's at Avalon,,49.82930806,-97.11508375,22/03/2013 5:52
+14,,,Southbound St Mary's at Riel North (St. Vital Centre),,49.82732495,-97.11482712,22/03/2013 5:52
+14,,,Southbound St Mary's at Riel,,49.82611584,-97.11459603,22/03/2013 5:52
+14,,,Eastbound Meadowood at St. Mary's,,49.82479267,-97.11343781,22/03/2013 5:53
+14,,,Eastbound St Vital Centre Terminal at St. Vital Centre (14 St. Mary's),,49.82643697,-97.11112128,22/03/2013 5:53
+14,,,Eastbound Meadowood at Dakota,,49.82774651,-97.10593929,22/03/2013 5:54
+14,,,Southbound Dakota at Abbotsford,,49.82724686,-97.10454051,22/03/2013 5:55
+14,,,Southbound Dakota at Hazelwood,,49.82550483,-97.10307911,22/03/2013 5:55
+14,,,Southbound Dakota at Hawkins,,49.82422809,-97.10201673,22/03/2013 5:56
+14,,,Southbound Dakota at Novavista,,49.82302394,-97.10099327,22/03/2013 5:56
+14,,,Southbound Dakota at Leston,,49.82140193,-97.09972206,22/03/2013 5:56
+14,,,Southbound Dakota at Dakota Community Club,,49.81905785,-97.09939682,22/03/2013 5:57
+14,,,Southbound Dakota at Paddington,,49.81714594,-97.09909638,22/03/2013 5:58
+14,,,Southbound Paddington at Dakota West,,49.81570521,-97.09845776,22/03/2013 5:58
+14,,,Southbound John Forsyth at Paddington,,49.81494486,-97.10090641,22/03/2013 5:59
+14,,,Southbound John Forsyth at Thornewood,,49.81361954,-97.10072197,22/03/2013 5:59
+14,,,Southbound John Forsyth at Ashford,,49.81229344,-97.101038,22/03/2013 5:59
+14,,,Southbound John Forsyth at Warde,,49.80958682,-97.10054624,22/03/2013 6:00
+14,,,Westbound Burland at John Forsyth,,49.80807879,-97.09854815,22/03/2013 6:01
+14,,,Westbound Burland at John Forsyth,,49.80807879,-97.09854815,22/03/2013 6:02
+14,,,Westbound Burland at Brixton,,49.80659892,-97.10045471,22/03/2013 6:02
+14,,,Westbound Burland at Chancery,,49.80637731,-97.10229805,22/03/2013 6:02
+14,,,Westbound Burland at Paddington,,49.80592205,-97.10470645,22/03/2013 6:03
+14,,,Westbound Burland at Healy,,49.8051586,-97.10697394,22/03/2013 6:03
+14,,,Westbound Burland at Knotsberry,,49.80371032,-97.10917075,22/03/2013 6:04
+14,,,Westbound Burland at Malmsbury,,49.80240659,-97.11195942,22/03/2013 6:04
+14,,,Westbound Burland at St. Mary's,,49.80161186,-97.11507559,22/03/2013 6:05
+14,,,Northbound St Mary's at Normand Park,,49.80333835,-97.11559226,22/03/2013 6:05
+14,,,Northbound St Mary's at Warde,,49.80500762,-97.11480471,22/03/2013 6:06
+14,,,Eastbound Warde at St. Mary's East,,49.80596664,-97.11183481,22/03/2013 6:06
+14,,,Eastbound Warde at Paddington,,49.80734677,-97.10766693,22/03/2013 6:07
+14,,,Northbound Paddington at Warde,,49.80816893,-97.106787,22/03/2013 6:07
+14,,,Northbound Paddington at Charing Cross,,49.80922625,-97.10763533,22/03/2013 6:08
+14,,,Northbound Paddington at Grimsby,,49.81160269,-97.1093914,22/03/2013 6:08
+14,,,Northbound Paddington at Alburg,,49.81334418,-97.10807245,22/03/2013 6:09
+14,,,Northbound Paddington at Britannica,,49.81388368,-97.10750927,22/03/2013 6:09
+14,,,Westbound Britannica at Sandrington,,49.81507852,-97.10961738,22/03/2013 6:09
+14,,,Northbound St Mary's at Britannica,,49.81539893,-97.11216278,22/03/2013 6:10
+14,,,Northbound St Mary's at Vista South,,49.81779896,-97.11261156,22/03/2013 6:10
+14,,,Northbound St Mary's at Vista (Park & Ride),,49.81999223,-97.11306842,22/03/2013 6:11
+14,,,Northbound St Mary's at Greenwood,,49.82296177,-97.11368978,22/03/2013 6:12
+14,,,Northbound St Mary's at Meadowood,,49.82534404,-97.11415329,22/03/2013 6:12
+14,,,Northbound St Mary's at Riel North (St. Vital Centre),,49.82740851,-97.11443453,22/03/2013 6:13
+14,,,Northbound St Mary's at Avalon,,49.82896798,-97.11463809,22/03/2013 6:13
+14,,,Northbound St Mary's at Bishop Grandin,,49.83033845,-97.1148351,22/03/2013 6:13
+14,,,Northbound St Mary's at Chesterfield,,49.83317882,-97.11415449,22/03/2013 6:14
+14,,,Northbound St Mary's at Dakota,,49.835062,-97.1132468,22/03/2013 6:15
+14,,,Northbound St Mary's at Worthington,,49.83703574,-97.11237723,22/03/2013 6:15
+14,,,Northbound St Mary's at Hindley,,49.83866954,-97.11217452,22/03/2013 6:16
+14,,,Northbound St Mary's at Sadler,,49.84055755,-97.11211489,22/03/2013 6:16
+14,,,Northbound St Mary's at Berrydale,,49.84161225,-97.11225463,22/03/2013 6:17
+14,,,Northbound St Mary's at Poplarwood,,49.84289193,-97.11239951,22/03/2013 6:17
+14,,,Northbound St Mary's at Frederick,,49.8457841,-97.11269025,22/03/2013 6:18
+14,,,Northbound St Mary's at Fernwood,,49.84733654,-97.11246286,22/03/2013 6:18
+14,,,Northbound St Mary's at Hull,,49.84891618,-97.1122483,22/03/2013 6:19
+14,,,Northbound St Mary's at Nichol,,49.8503075,-97.11206889,22/03/2013 6:19
+14,,,Northbound St Mary's at Fermor,,49.85288337,-97.11171809,22/03/2013 6:20
+14,,,Northbound St Mary's at Kingswood,,49.85468442,-97.11184266,22/03/2013 6:21
+14,,,Northbound St Mary's at Regal,,49.85611759,-97.11202333,22/03/2013 6:21
+14,,,Northbound St Mary's at Elm Park,,49.85749592,-97.11215048,22/03/2013 6:21
+14,,,Northbound St Mary's at Oakleigh,,49.85974817,-97.11181224,22/03/2013 6:22
+14,,,Northbound St Mary's at Mager,,49.86189073,-97.11136692,22/03/2013 6:23
+14,,,Northbound St Mary's at St. Anne's,,49.8640598,-97.11089269,22/03/2013 6:24
+14,,,Northbound St Mary's at Ellesmere,,49.86636757,-97.11064958,22/03/2013 6:24
+14,,,Northbound St Mary's at Vivian,,49.86801467,-97.11071056,22/03/2013 6:25
+14,,,Northbound St Mary's at Morier,,49.86980568,-97.11132262,22/03/2013 6:25
+14,,,Northbound St Mary's at Fifth,,49.87090369,-97.11246277,22/03/2013 6:26
+14,,,Northbound St Mary's at Carriere,,49.87194058,-97.11371669,22/03/2013 6:26
+14,,,Northbound St Mary's at Caton,,49.8731067,-97.11517441,22/03/2013 6:27
+14,,,Northbound St Mary's at Niverville,,49.87492553,-97.1174976,22/03/2013 6:27
+14,,,Northbound St Mary's at Kenny,,49.8759766,-97.11962807,22/03/2013 6:28
+14,,,Northbound St Mary's at Enfield,,49.87695102,-97.12202608,22/03/2013 6:29
+14,,,Southbound St Mary's at St. Anne's,,49.86370658,-97.1112961,22/03/2013 9:55
+14,,,Southbound St Mary's at Mager,,49.86213775,-97.11162167,22/03/2013 9:55
+14,,,Southbound St Mary's at Kingston,,49.85960865,-97.11208205,22/03/2013 9:56
+14,,,Southbound St Mary's at Elm Park,,49.85797689,-97.11241001,22/03/2013 9:56
+14,,,Southbound St Mary's at Sunset,,49.85504899,-97.11213454,22/03/2013 9:57
+14,,,Southbound St Mary's at Glenlawn,,49.85412081,-97.11203158,22/03/2013 9:57
+14,,,Southbound St Mary's at Fermor,,49.85286298,-97.11212234,22/03/2013 9:57
+14,,,Southbound St Mary's at Nichol,,49.85054553,-97.11232393,22/03/2013 9:58
+14,,,Southbound St Mary's at Glenview,,49.84914545,-97.11251759,22/03/2013 9:58
+14,,,Southbound St Mary's at Fernwood,,49.8475566,-97.11271859,22/03/2013 9:59
+14,,,Southbound St Mary's at Norberry,,49.84563536,-97.11294643,22/03/2013 9:59
+14,,,Southbound St Mary's at Portland,,49.84386059,-97.11277908,22/03/2013 10:00
+14,,,Southbound St Mary's at St. Vital,,49.84267981,-97.11263033,22/03/2013 10:00
+14,,,Southbound St Mary's at Moore,,49.84041734,-97.1123429,22/03/2013 10:01
+14,,,Southbound St Mary's at Hastings,,49.83887117,-97.11240311,22/03/2013 10:01
+14,,,Southbound St Mary's at Parkville,,49.83725488,-97.11257732,22/03/2013 10:01
+14,,,Southbound St Mary's at Arden,,49.83501327,-97.11356856,22/03/2013 10:02
+14,,,Southbound St Mary's at Chesterfield,,49.83341504,-97.11429827,22/03/2013 10:02
+14,,,Southbound St Mary's at Bishop Grandin,,49.83075899,-97.11524984,22/03/2013 10:03
+14,,,Southbound St Mary's at Avalon,,49.82930806,-97.11508375,22/03/2013 10:04
+14,,,Southbound St Mary's at Riel North (St. Vital Centre),,49.82732495,-97.11482712,22/03/2013 10:04
+14,,,Southbound St Mary's at Riel,,49.82611584,-97.11459603,22/03/2013 10:04
+14,,,Eastbound Meadowood at St. Mary's,,49.82479267,-97.11343781,22/03/2013 10:05
+14,,,Eastbound St Vital Centre Terminal at St. Vital Centre (14 St. Mary's),,49.82643697,-97.11112128,22/03/2013 10:06
+14,,,Eastbound Meadowood at Dakota,,49.82774651,-97.10593929,22/03/2013 10:07
+14,,,Southbound Dakota at Abbotsford,,49.82724686,-97.10454051,22/03/2013 10:07
+14,,,Southbound Dakota at Hazelwood,,49.82550483,-97.10307911,22/03/2013 10:08
+14,,,Southbound Dakota at Hawkins,,49.82422809,-97.10201673,22/03/2013 10:08
+14,,,Southbound Dakota at Novavista,,49.82302394,-97.10099327,22/03/2013 10:09
+14,,,Southbound Dakota at Leston,,49.82140193,-97.09972206,22/03/2013 10:09
+14,,,Southbound Dakota at Dakota Community Club,,49.81905785,-97.09939682,22/03/2013 10:10
+14,,,Southbound Dakota at Paddington,,49.81714594,-97.09909638,22/03/2013 10:10
+14,,,Southbound Paddington at Dakota West,,49.81570521,-97.09845776,22/03/2013 10:11
+14,,,Southbound John Forsyth at Paddington,,49.81494486,-97.10090641,22/03/2013 10:11
+14,,,Southbound John Forsyth at Thornewood,,49.81361954,-97.10072197,22/03/2013 10:12
+14,,,Southbound John Forsyth at Ashford,,49.81229344,-97.101038,22/03/2013 10:12
+14,,,Southbound John Forsyth at Warde,,49.80958682,-97.10054624,22/03/2013 10:13
+14,,,Westbound Burland at John Forsyth,,49.80807879,-97.09854815,22/03/2013 10:14
+14,,,Westbound Burland at John Forsyth,,49.80807879,-97.09854815,22/03/2013 10:18
+14,,,Westbound Burland at Brixton,,49.80659892,-97.10045471,22/03/2013 10:18
+14,,,Westbound Burland at Chancery,,49.80637731,-97.10229805,22/03/2013 10:18
+14,,,Westbound Burland at Paddington,,49.80592205,-97.10470645,22/03/2013 10:19
+14,,,Westbound Burland at Healy,,49.8051586,-97.10697394,22/03/2013 10:19
+14,,,Westbound Burland at Knotsberry,,49.80371032,-97.10917075,22/03/2013 10:20
+14,,,Westbound Burland at Malmsbury,,49.80240659,-97.11195942,22/03/2013 10:20
+14,,,Westbound Burland at St. Mary's,,49.80161186,-97.11507559,22/03/2013 10:21
+14,,,Northbound St Mary's at Normand Park,,49.80333835,-97.11559226,22/03/2013 10:22
+14,,,Northbound St Mary's at Warde,,49.80500762,-97.11480471,22/03/2013 10:22
+14,,,Eastbound Warde at St. Mary's East,,49.80596664,-97.11183481,22/03/2013 10:23
+14,,,Eastbound Warde at Paddington,,49.80734677,-97.10766693,22/03/2013 10:24
+14,,,Northbound Paddington at Warde,,49.80816893,-97.106787,22/03/2013 10:24
+14,,,Northbound Paddington at Charing Cross,,49.80922625,-97.10763533,22/03/2013 10:24
+14,,,Northbound Paddington at Grimsby,,49.81160269,-97.1093914,22/03/2013 10:25
+14,,,Northbound Paddington at Alburg,,49.81334418,-97.10807245,22/03/2013 10:26
+14,,,Northbound Paddington at Britannica,,49.81388368,-97.10750927,22/03/2013 10:26
+14,,,Westbound Britannica at Sandrington,,49.81507852,-97.10961738,22/03/2013 10:26
+14,,,Northbound St Mary's at Britannica,,49.81539893,-97.11216278,22/03/2013 10:27
+14,,,Northbound St Mary's at Vista South,,49.81779896,-97.11261156,22/03/2013 10:28
+14,,,Northbound St Mary's at Vista (Park & Ride),,49.81999223,-97.11306842,22/03/2013 10:28
+14,,,Northbound St Mary's at Greenwood,,49.82296177,-97.11368978,22/03/2013 10:29
+14,,,Northbound St Mary's at Meadowood,,49.82534404,-97.11415329,22/03/2013 10:30
+14,,,Northbound St Mary's at Riel North (St. Vital Centre),,49.82740851,-97.11443453,22/03/2013 10:30
+14,,,Northbound St Mary's at Avalon,,49.82896798,-97.11463809,22/03/2013 10:31
+14,,,Northbound St Mary's at Bishop Grandin,,49.83033845,-97.1148351,22/03/2013 10:31
+14,,,Northbound St Mary's at Chesterfield,,49.83317882,-97.11415449,22/03/2013 10:32
+14,,,Northbound St Mary's at Dakota,,49.835062,-97.1132468,22/03/2013 10:33
+14,,,Northbound St Mary's at Worthington,,49.83703574,-97.11237723,22/03/2013 10:33
+14,,,Northbound St Mary's at Hindley,,49.83866954,-97.11217452,22/03/2013 10:34
+14,,,Northbound St Mary's at Sadler,,49.84055755,-97.11211489,22/03/2013 10:34
+14,,,Northbound St Mary's at Berrydale,,49.84161225,-97.11225463,22/03/2013 10:35
+14,,,Northbound St Mary's at Poplarwood,,49.84289193,-97.11239951,22/03/2013 10:35
+14,,,Northbound St Mary's at Frederick,,49.8457841,-97.11269025,22/03/2013 10:36
+14,,,Northbound St Mary's at Fernwood,,49.84733654,-97.11246286,22/03/2013 10:36
+14,,,Northbound St Mary's at Hull,,49.84891618,-97.1122483,22/03/2013 10:37
+14,,,Northbound St Mary's at Nichol,,49.8503075,-97.11206889,22/03/2013 10:37
+14,,,Northbound St Mary's at Fermor,,49.85288337,-97.11171809,22/03/2013 10:38
+14,,,Northbound St Mary's at Kingswood,,49.85468442,-97.11184266,22/03/2013 10:39
+14,,,Northbound St Mary's at Regal,,49.85611759,-97.11202333,22/03/2013 10:39
+14,,,Northbound St Mary's at Elm Park,,49.85749592,-97.11215048,22/03/2013 10:39
+14,,,Northbound St Mary's at Oakleigh,,49.85974817,-97.11181224,22/03/2013 10:40
+14,,,Northbound St Mary's at Mager,,49.86189073,-97.11136692,22/03/2013 10:41
+14,,,Northbound St Mary's at St. Anne's,,49.8640598,-97.11089269,22/03/2013 10:42
+14,,,Northbound St Mary's at Ellesmere,,49.86636757,-97.11064958,22/03/2013 10:42
+14,,,Northbound St Mary's at Vivian,,49.86801467,-97.11071056,22/03/2013 10:43
+14,,,Northbound St Mary's at Morier,,49.86980568,-97.11132262,22/03/2013 10:43
+14,,,Northbound St Mary's at Fifth,,49.87090369,-97.11246277,22/03/2013 10:44
+14,,,Northbound St Mary's at Carriere,,49.87194058,-97.11371669,22/03/2013 10:44
+14,,,Northbound St Mary's at Caton,,49.8731067,-97.11517441,22/03/2013 10:45
+14,,,Northbound St Mary's at Niverville,,49.87492553,-97.1174976,22/03/2013 10:45
+14,,,Northbound St Mary's at Kenny,,49.8759766,-97.11962807,22/03/2013 10:46
+14,,,Northbound St Mary's at Enfield,,49.87695102,-97.12202608,22/03/2013 10:47
+14,,,Northbound St Mary's at Eugenie,,49.87937636,-97.12626106,22/03/2013 10:48
+14,,,Northbound St Mary's at Marion,,49.88109967,-97.12769774,22/03/2013 10:49
+14,,,Northbound Queen Elizabeth at Mayfair,,49.88515639,-97.13214882,22/03/2013 10:51
+14,,,Northbound Main at Assiniboine,,49.8868421,-97.13348987,22/03/2013 10:52
+14,,,Northbound Main at Broadway (Union Station),,49.88925684,-97.13485861,22/03/2013 10:53
+14,,,Westbound St Mary at Fort,,49.89170161,-97.13753512,22/03/2013 10:54
+14,,,Northbound Fort at Graham,,49.89286882,-97.13852054,22/03/2013 10:55
+14,,,Northbound Fort at Graham North,,49.89415651,-97.1391672,22/03/2013 10:56
+14,,,Westbound Portage at Garry,,49.89472405,-97.14089982,22/03/2013 10:57
+14,,,Westbound Portage at Donald (MTS Centre),,49.89387094,-97.14323008,22/03/2013 10:58
+14,,,Westbound Portage at Edmonton (Portage Place),,49.89246563,-97.14702947,22/03/2013 10:59
+14,,,Northbound Vaughan at Portage North,,49.89184314,-97.14972661,22/03/2013 11:01
+14,,,Westbound Ellice at Balmoral,,49.89333767,-97.15206436,22/03/2013 11:03
+14,,,Westbound Ellice at Spence,,49.89286113,-97.15376733,22/03/2013 11:04
+14,,,Westbound Ellice at Langside,,49.89292114,-97.15583968,22/03/2013 11:04
+14,,,Westbound Ellice at Sherbrook,,49.89300928,-97.15855145,22/03/2013 11:06
+14,,,Westbound Ellice at McGee,,49.89309169,-97.16147231,22/03/2013 11:06
+14,,,Westbound Ellice at Toronto,,49.89317793,-97.16407279,22/03/2013 11:07
+14,,,Westbound Ellice at Simcoe,,49.89324063,-97.16632607,22/03/2013 11:07
+14,,,Westbound Ellice at Arlington,,49.89334918,-97.16977507,22/03/2013 11:08
+14,,,Westbound Ellice at Banning,,49.89340934,-97.17187529,22/03/2013 11:09
+14,,,Westbound Ellice at Ingersoll,,49.89348022,-97.17408651,22/03/2013 11:09
+14,,,Westbound Ellice at Dominion,,49.89357363,-97.17716017,22/03/2013 11:10
+14,,,Westbound Ellice at Minto,,49.89366106,-97.17985812,22/03/2013 11:11
+14,,,Westbound Ellice at Wall,,49.89373025,-97.18197195,22/03/2013 11:11
+14,,,Westbound Ellice at Erin,,49.8937926,-97.18422529,22/03/2013 11:12
+14,,,Westbound Ellice at Clifton,,49.89382803,-97.18533788,22/03/2013 11:12
+14,,,Westbound Ellice at Valour,,49.89391701,-97.18814719,22/03/2013 11:13
+14,,,Westbound Ellice at Strathcona,,49.89398801,-97.19038629,22/03/2013 11:13
+14,,,Westbound Ellice at Empress,,49.89413769,-97.1953655,22/03/2013 11:14
+14,,,Westbound Ellice at Milt Stegall,,49.89422382,-97.19800786,22/03/2013 11:15
+14,,,Westbound Ellice at St. James,,49.89427535,-97.20016417,22/03/2013 11:15
+14,,,Westbound Ellice at Century,,49.89436159,-97.20282047,22/03/2013 11:16
+14,,,Westbound Ellice at Century West,,49.89443871,-97.2048923,22/03/2013 11:16
+14,,,Westbound Ellice at King Edward,,49.89451348,-97.20739587,22/03/2013 11:17
+14,,,Westbound Ellice at Berry,,49.89457662,-97.20973278,22/03/2013 11:18
+14,,,Westbound Ellice at Marjorie,,49.89466307,-97.21241695,22/03/2013 11:18
+14,,,Westbound Ellice at Roseberry,,49.89472418,-97.21462864,22/03/2013 11:19
+14,,,Westbound Ellice at Ferry,,49.89479317,-97.21677042,22/03/2013 11:19
+14,,,Southbound Ferry at Ellice,,49.89407763,-97.21761831,22/03/2013 11:20
+14,,,Southbound Ferry at St. Matthews,,49.89149048,-97.21783893,22/03/2013 11:21
+16,,,Eastbound Burrows at McNichol,,49.92839832,-97.17406315,22/03/2013 6:41
+16,,,Eastbound Burrows at McPhillips,,49.92688743,-97.16952219,22/03/2013 6:42
+16,,,Southbound McPhillips at Manitoba,,49.92539341,-97.16946732,22/03/2013 6:43
+16,,,Eastbound Selkirk at McPhillips,,49.92309226,-97.16899719,22/03/2013 6:44
+16,,,Eastbound Selkirk at Sgt Tommy Prince,,49.92256324,-97.16682986,22/03/2013 6:44
+16,,,Eastbound Selkirk at Battery,,49.92173091,-97.16425615,22/03/2013 6:45
+16,,,Eastbound Selkirk at Sinclair West,,49.92099218,-97.1619158,22/03/2013 6:46
+16,,,Eastbound Selkirk at Sinclair,,49.91989408,-97.15847468,22/03/2013 6:47
+16,,,Eastbound Selkirk at Arlington,,49.91933601,-97.15675452,22/03/2013 6:47
+16,,,Eastbound Selkirk at Parr,,49.91850279,-97.15413939,22/03/2013 6:48
+16,,,Eastbound Selkirk at McKenzie,,49.91769804,-97.15162077,22/03/2013 6:49
+16,,,Eastbound Selkirk at McGregor,,49.91689456,-97.14918577,22/03/2013 6:49
+16,,,Eastbound Selkirk at Andrews,,49.91614698,-97.14687407,22/03/2013 6:50
+16,,,Eastbound Selkirk at Salter West,,49.91530433,-97.14424571,22/03/2013 6:51
+16,,,Eastbound Selkirk at Salter,,49.91458496,-97.14201666,22/03/2013 6:52
+16,,,Eastbound Selkirk at Aikins,,49.91347685,-97.13854897,22/03/2013 6:53
+16,,,Eastbound Selkirk at Charles,,49.91286118,-97.13662255,22/03/2013 6:53
+16,,,Eastbound Selkirk at Main,,49.91175291,-97.13315511,22/03/2013 6:54
+16,,,Southbound Main at Stella,,49.9099748,-97.13333519,22/03/2013 6:55
+16,,,Southbound Main at Dufferin,,49.90879269,-97.1336594,22/03/2013 6:56
+16,,,Southbound Main at Jarvis,,49.90744876,-97.13398983,22/03/2013 6:56
+16,,,Southbound Main at Henry,,49.90340528,-97.13537142,22/03/2013 6:58
+16,,,Southbound Main at Alexander,,49.90178016,-97.13667352,22/03/2013 6:59
+16,,,Southbound Main at James,,49.90022805,-97.13804235,22/03/2013 7:00
+16,,,Southbound Main at William (City Hall),,49.89903037,-97.13907717,22/03/2013 7:01
+16,,,Southbound Main at McDermot,,49.89711472,-97.13909517,22/03/2013 7:01
+16,,,Southbound Main at Pioneer,,49.89418244,-97.13798265,22/03/2013 7:03
+16,,,Westbound Graham at Garry (Winnipeg Square),,49.89279928,-97.13979028,22/03/2013 7:05
+16,,,Westbound Graham at Donald (MTS Centre),,49.89219472,-97.14247292,22/03/2013 7:06
+16,,,Westbound Graham at Edmonton (RWB),,49.89128697,-97.14644806,22/03/2013 7:08
+16,,,Westbound Graham at Vaughan (The Bay),,49.89069823,-97.14900463,22/03/2013 7:10
+16,,,Southbound Vaughan at St. Mary,,49.88926111,-97.14857231,22/03/2013 7:10
+16,,,Southbound Osborne at York,,49.88794413,-97.15002886,22/03/2013 7:11
+16,,,Southbound Osborne at Broadway (Legislature),,49.88564081,-97.14999162,22/03/2013 7:13
+16,,,Southbound Osborne at Granite,,49.88331093,-97.14885564,22/03/2013 7:13
+16,,,Southbound Osborne at River,,49.87917208,-97.14653622,22/03/2013 7:15
+16,,,Southbound Osborne at Wardlaw,,49.87698391,-97.14414239,22/03/2013 7:16
+16,,,Southbound Osborne at Osborne Junction,,49.87466012,-97.14226897,22/03/2013 7:17
+16,,,Southbound Osborne at Osborne Station,,49.87383923,-97.14156281,22/03/2013 7:17
+16,,,Southbound Osborne at Mulvey,,49.87126079,-97.13951848,22/03/2013 7:17
+16,,,Southbound Osborne at Woodward,,49.8688185,-97.13755264,22/03/2013 7:18
+16,,,Southbound Osborne at Brandon,,49.86787982,-97.1367955,22/03/2013 7:18
+16,,,Southbound Osborne at Hethrington,,49.86652203,-97.13570662,22/03/2013 7:19
+16,,,Southbound Osborne at Morley,,49.86516399,-97.13460389,22/03/2013 7:19
+16,,,Southbound Osborne at Kylemore,,49.86325019,-97.13306344,22/03/2013 7:20
+16,,,Southbound Osborne at Ashland,,49.86106287,-97.13129712,22/03/2013 7:20
+16,,,Southbound Osborne at Jubilee,,49.85981492,-97.13032952,22/03/2013 7:21
+16,,,Southbound Osborne at Montague,,49.85779813,-97.12854294,22/03/2013 7:21
+16,,,Northbound Dunkirk Ramp to Kingston at Kingston Row,,49.85376362,-97.1265841,22/03/2013 7:23
+16,,,Southbound Kingston Ramp to Dunkirk at Kingston Row Terminal,,49.85418853,-97.12449468,22/03/2013 7:24
+16,,,Southbound Kingston Ramp to Dunkirk at Kingston Row Terminal,,49.85418853,-97.12449468,22/03/2013 7:26
+16,,,Northbound Osborne at Wavell,,49.85808422,-97.12843449,22/03/2013 7:28
+16,,,Northbound Osborne at Balfour,,49.86012865,-97.13026176,22/03/2013 7:29
+16,,,Northbound Osborne at Baltimore,,49.8617782,-97.13158955,22/03/2013 7:29
+16,,,Northbound Osborne at Maplewood,,49.86331874,-97.13285207,22/03/2013 7:30
+16,,,Northbound Osborne at Morley,,49.86508647,-97.13425898,22/03/2013 7:30
+16,,,Northbound Osborne at Hethrington,,49.86663575,-97.13550741,22/03/2013 7:31
+16,,,Northbound Osborne at Brandon,,49.86818502,-97.13675592,22/03/2013 7:32
+16,,,Northbound Osborne at Glasgow,,49.86910549,-97.13749985,22/03/2013 7:32
+16,,,Northbound Osborne at Mulvey,,49.87193948,-97.13977076,22/03/2013 7:33
+16,,,Northbound Osborne at Osborne Station,,49.87393477,-97.14135036,22/03/2013 7:34
+16,,,Northbound Osborne at Osborne Junction,,49.87512825,-97.14229276,22/03/2013 7:35
+16,,,Northbound Osborne at Stradbrook,,49.87766571,-97.14458951,22/03/2013 7:36
+16,,,Northbound Osborne at River,,49.87946829,-97.14649703,22/03/2013 7:37
+16,,,Northbound Osborne at Assiniboine,,49.88320559,-97.14845596,22/03/2013 7:39
+16,,,Northbound Osborne at Broadway (Legislature),,49.88519187,-97.14947977,22/03/2013 7:40
+16,,,Eastbound York at Memorial,,49.88754335,-97.14915316,22/03/2013 7:41
+16,,,Northbound Vaughan at St. Mary,,49.88897642,-97.14820729,22/03/2013 7:42
+16,,,Northbound Vaughan at Graham (The Bay),,49.89041911,-97.14898746,22/03/2013 7:43
+16,,,Eastbound Graham at Edmonton (RWB),,49.89112962,-97.14673256,22/03/2013 7:44
+16,,,Eastbound Graham at Donald (MTS Centre),,49.89202051,-97.1428277,22/03/2013 7:45
+16,,,Eastbound Graham at Fort (Winnipeg Square),,49.89289396,-97.13896513,22/03/2013 7:47
+16,,,Northbound Main at Pioneer,,49.89441978,-97.13763933,22/03/2013 7:49
+16,,,Northbound Main at McDermot,,49.89698081,-97.13859902,22/03/2013 7:50
+16,,,Northbound Main at James (Concert Hall),,49.89990063,-97.13781822,22/03/2013 7:52
+16,,,Northbound Main at Logan,,49.90235912,-97.13575992,22/03/2013 7:53
+16,,,Northbound Main at Higgins,,49.90427122,-97.13440492,22/03/2013 7:54
+16,,,Northbound Main at Jarvis,,49.90730719,-97.13357746,22/03/2013 7:55
+16,,,Northbound Main at Euclid,,49.90977053,-97.13293915,22/03/2013 7:56
+16,,,Westbound Selkirk at Main,,49.91192348,-97.13313459,22/03/2013 7:57
+16,,,Westbound Selkirk at Charles,,49.91281402,-97.13592789,22/03/2013 7:58
+16,,,Westbound Selkirk at Aikins,,49.91371326,-97.13870703,22/03/2013 7:59
+16,,,Westbound Selkirk at Salter,,49.91471712,-97.14184442,22/03/2013 8:00
+16,,,Westbound Selkirk at Salter West,,49.91528508,-97.14360566,22/03/2013 8:00
+16,,,Westbound Selkirk at Andrews,,49.91613673,-97.14623367,22/03/2013 8:00
+16,,,Westbound Selkirk at McGregor,,49.91691352,-97.14868354,22/03/2013 8:01
+16,,,Westbound Selkirk at McKenzie,,49.91776462,-97.15128388,22/03/2013 8:02
+16,,,Westbound Selkirk at Parr,,49.91856916,-97.15378857,22/03/2013 8:02
+16,,,Westbound Selkirk at Arlington,,49.91934556,-97.15622477,22/03/2013 8:03
+16,,,Westbound Selkirk at Sinclair,,49.92001728,-97.15830281,22/03/2013 8:03
+16,,,Westbound Selkirk at Sinclair West,,49.92096403,-97.161276,22/03/2013 8:04
+16,,,Westbound Selkirk at Battery,,49.92178722,-97.16383605,22/03/2013 8:04
+16,,,Westbound Selkirk at Sgt Tommy Prince,,49.92295072,-97.16744212,22/03/2013 8:05
+16,,,Westbound Selkirk at McPhillips,,49.92348013,-97.16906609,22/03/2013 8:06
+16,,,Northbound McPhillips at Manitoba,,49.92513685,-97.16917051,22/03/2013 8:06
+16,,,Westbound Burrows at McPhillips,,49.92715866,-97.16960945,22/03/2013 8:07
+16,,,Westbound Burrows at McNichol,,49.92838822,-97.17342257,22/03/2013 8:08
+16,,,Westbound Burrows at Fife,,49.92892106,-97.1752696,22/03/2013 8:08
+16,,,Westbound Burrows at Shaughnessy,,49.92969417,-97.17752563,22/03/2013 8:09
+16,,,Westbound Burrows at Lawrence,,49.93054835,-97.18036393,22/03/2013 8:09
+16,,,Westbound Burrows at Railway,,49.93171223,-97.18402677,22/03/2013 8:10
+16,,,Westbound Burrows at Gilbert,,49.9328534,-97.18509869,22/03/2013 8:11
+16,,,Westbound Tyndall at Burrows,,49.93453612,-97.18628968,22/03/2013 8:11
+16,,,Westbound Tyndall at Chudley,,49.9351362,-97.18899858,22/03/2013 8:12
+16,,,Westbound Tyndall at Dorset,,49.93536307,-97.19142887,22/03/2013 8:13
+16,,,Northbound Dorset at Tyndall,,49.93694706,-97.19263777,22/03/2013 8:13
+16,,,Northbound Dorset at Burrows,,49.9380143,-97.19185919,22/03/2013 8:14
+16,,,Westbound Burrows at Keewatin East,,49.93864252,-97.19465092,22/03/2013 8:14
+16,,,Westbound Burrows at Keewatin West,,49.93865307,-97.19590485,22/03/2013 8:15
+16,,,Westbound Burrows at Weitzel,,49.93864682,-97.19781443,22/03/2013 8:15
+16,,,Westbound Burrows at Dexter,,49.93863966,-97.20082506,22/03/2013 8:16
+16,,,Westbound Burrows at Albina,,49.93872867,-97.20482163,22/03/2013 8:17
+16,,,Westbound Burrows at King Edward,,49.93880743,-97.20642145,22/03/2013 8:17
+16,,,Westbound Burrows at Sumter,,49.93878647,-97.20855457,22/03/2013 8:17
+16,,,Westbound Burrows at Palms,,49.93874437,-97.21165012,22/03/2013 8:18
+16,,,Westbound Burrows at Cutler,,49.93975141,-97.21453964,22/03/2013 8:19
+16,,,Westbound Burrows at Haddon,,49.94118858,-97.2167444,22/03/2013 8:20
+16,,,Westbound Burrows at Haddon,,49.94118858,-97.2167444,22/03/2013 8:34
+16,,,Eastbound Egesz at Haddon,,49.93965587,-97.21884975,22/03/2013 8:34
+16,,,Eastbound Egesz at Markwood,,49.93738221,-97.21547735,22/03/2013 8:36
+16,,,Eastbound Egesz at Alwood,,49.93621759,-97.21519984,22/03/2013 8:36
+16,,,Eastbound Manitoba at Egesz,,49.93493141,-97.21520555,22/03/2013 8:37
+16,,,Eastbound Manitoba at Walsall,,49.93365108,-97.21267481,22/03/2013 8:38
+16,,,Eastbound Manitoba at Bentley,,49.93341927,-97.20989631,22/03/2013 8:38
+16,,,Eastbound Manitoba at King Edward,,49.93349701,-97.20620056,22/03/2013 8:39
+16,,,Eastbound Manitoba at Huber,,49.93363336,-97.20455112,22/03/2013 8:40
+16,,,Eastbound Manitoba at Featherstone,,49.93363419,-97.2028649,22/03/2013 8:40
+16,,,Eastbound Manitoba at Ellington,,49.93363446,-97.20056555,22/03/2013 8:41
+16,,,Eastbound Manitoba at Code,,49.93363534,-97.19830798,22/03/2013 8:41
+16,,,Eastbound Manitoba at Keewatin West,,49.93361916,-97.19553543,22/03/2013 8:42
+16,,,Eastbound Manitoba at Keewatin East,,49.93289312,-97.19454528,22/03/2013 8:42
+16,,,Eastbound Manitoba at Dorset,,49.93231608,-97.19272742,22/03/2013 8:43
+160,,,Northbound Pembina at Crescent,,49.83183551,-97.15075227,22/03/2013 8:44
+160,,,Northbound Pembina at Nesbitt,,49.83274801,-97.15043934,22/03/2013 8:44
+160,,,Northbound Pembina at Crane,,49.83531726,-97.15023006,22/03/2013 8:45
+160,,,Northbound Pembina at Fletcher,,49.83694317,-97.15065478,22/03/2013 8:46
+160,,,Northbound Pembina at Dowker,,49.83916006,-97.15147424,22/03/2013 8:47
+160,,,Northbound Pembina at Waller,,49.84010763,-97.15223089,22/03/2013 8:47
+160,,,Northbound Pembina at Oakenwald,,49.84134619,-97.15318511,22/03/2013 8:48
+160,,,Northbound Pembina at Riverwood,,49.84261528,-97.15323411,22/03/2013 8:48
+160,,,Northbound Pembina at North Drive,,49.84521872,-97.15291234,22/03/2013 8:49
+160,,,Northbound Pembina at Point Road,,49.84802104,-97.1526525,22/03/2013 8:49
+160,,,Northbound Pembina at Calrossie,,49.84952996,-97.1525115,22/03/2013 8:50
+160,,,Northbound Pembina at Merriam,,49.85073057,-97.15221531,22/03/2013 8:50
+160,,,Northbound Southwest Transitway at Jubilee,,49.8539748,-97.15033859,22/03/2013 8:52
+160,,,Northbound Southwest Transitway at Fort Rouge Station,,49.86295705,-97.14504177,22/03/2013 8:55
+160,,,Northbound Southwest Transitway at Osborne Station,,49.8735548,-97.14065512,22/03/2013 8:57
+160,,,Northbound Southwest Transitway at Harkness Station,,49.88116613,-97.13459969,22/03/2013 8:59
+160,,,Eastbound Mayfair at Queen Elizabeth,,49.88451542,-97.13312021,22/03/2013 9:00
+160,,,Northbound Main at Assiniboine,,49.8868421,-97.13348987,22/03/2013 9:01
+160,,,Northbound Main at Broadway (Union Station),,49.88925684,-97.13485861,22/03/2013 9:02
+160,,,Westbound Graham at Garry (Winnipeg Square),,49.89279928,-97.13979028,22/03/2013 9:05
+160,,,Westbound Graham at Donald (MTS Centre),,49.89219472,-97.14247292,22/03/2013 9:07
+160,,,Westbound Graham at Edmonton (RWB),,49.89128697,-97.14644806,22/03/2013 9:08
+160,,,Westbound Graham at Vaughan (The Bay),,49.89069823,-97.14900463,22/03/2013 9:10
+160,,,Westbound Portage at Colony,,49.89120857,-97.15054451,22/03/2013 9:11
+160,,,Northbound Balmoral at Balmoral Station (160),,49.89124511,-97.15226959,22/03/2013 9:13
+160,,,Northbound Balmoral at Balmoral Station (160),,49.89124511,-97.15226959,22/03/2013 9:16
+160,,,Northbound Balmoral at Ellice,,49.8929003,-97.152276,22/03/2013 9:17
+160,,,Southbound Vaughan at Portage,,49.89152984,-97.14982213,22/03/2013 9:19
+160,,,Southbound Vaughan at Graham,,49.89074896,-97.14936469,22/03/2013 9:19
+160,,,Eastbound Graham at Edmonton (RWB),,49.89112962,-97.14673256,22/03/2013 9:20
+160,,,Eastbound Graham at Donald (MTS Centre),,49.89202051,-97.1428277,22/03/2013 9:22
+160,,,Eastbound Graham at Fort (Winnipeg Square),,49.89289396,-97.13896513,22/03/2013 9:23
+160,,,Southbound Main at St. Mary,,49.89135108,-97.13643475,22/03/2013 9:25
+160,,,Southbound Main at Broadway (Union Station),,49.88895613,-97.1351765,22/03/2013 9:27
+160,,,Southbound Main at Assiniboine,,49.88746751,-97.13434285,22/03/2013 9:27
+160,,,Southbound Queen Elizabeth at Stradbrook,,49.88390506,-97.13208575,22/03/2013 9:28
+160,,,Southbound Southwest Transitway at Harkness Station,,49.88072201,-97.1355077,22/03/2013 9:28
+160,,,Southbound Southwest Transitway at Osborne Station,,49.87330148,-97.14112415,22/03/2013 9:30
+160,,,Southbound Southwest Transitway at Fort Rouge Station,,49.86242072,-97.14581372,22/03/2013 9:33
+160,,,Southbound Southwest Transitway at Jubilee,,49.8538504,-97.15099723,22/03/2013 9:35
+160,,,Southbound Pembina at Calrossie,,49.8506844,-97.15270398,22/03/2013 9:36
+160,,,Southbound Pembina at Byng,,49.84946581,-97.15300084,22/03/2013 9:36
+160,,,Southbound Pembina at Windermere,,49.84788497,-97.15314456,22/03/2013 9:37
+160,,,Southbound Pembina at North Drive,,49.84564855,-97.15335499,22/03/2013 9:37
+160,,,Southbound Pembina at Southwood,,49.84294445,-97.1535693,22/03/2013 9:38
+160,,,Southbound Pembina at McGillivray,,49.84070882,-97.15326503,22/03/2013 9:39
+160,,,Southbound Pembina at Radisson,,49.83906828,-97.1519228,22/03/2013 9:39
+160,,,Southbound Pembina at Kelsey,,49.83779974,-97.15134531,22/03/2013 9:39
+160,,,Southbound Pembina at Clarence,,49.83667071,-97.15105459,22/03/2013 9:40
+160,,,Southbound Pembina at Royse,,49.83453939,-97.15052397,22/03/2013 9:40
+160,,,Southbound Pembina at Nesbitt,,49.83355231,-97.15067288,22/03/2013 9:41
+160,,,Southbound Pembina at Chevrier,,49.83254991,-97.15098924,22/03/2013 9:41
+160,,,Southbound Pembina at Manahan,,49.82879069,-97.15216159,22/03/2013 9:42
+160,,,Southbound Pembina at Manahan South,,49.82726667,-97.15248386,22/03/2013 9:43
+160,,,Southbound Pembina at Adamar North,,49.82548217,-97.15282994,22/03/2013 9:43
+160,,,Southbound Pembina at Adamar,,49.82431662,-97.15306899,22/03/2013 9:44
+160,,,Southbound Pembina at Plaza,,49.82212049,-97.15298578,22/03/2013 9:44
+160,,,Southbound Pembina at University Crescent,,49.81788582,-97.15254924,22/03/2013 9:46
+160,,,Southbound University at Pembina,,49.81781845,-97.15114768,22/03/2013 9:46
+160,,,Southbound University at Wedgewood,,49.81693989,-97.14908198,22/03/2013 9:46
+160,,,Southbound University at Thatcher,,49.81517532,-97.14730042,22/03/2013 9:47
+160,,,Southbound University at Markham,,49.81159259,-97.14544948,22/03/2013 9:48
+160,,,Southbound University at Dysart,,49.80893961,-97.14156168,22/03/2013 9:49
+160,,,Southbound University at Dafoe,,49.80598635,-97.13914521,22/03/2013 9:50
+160,,,Southbound University at Freedman,,49.80417306,-97.13769982,22/03/2013 9:50
+160,,,Eastbound Freedman at King's Drive,,49.80517049,-97.13372825,22/03/2013 9:51
+160,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 9:52
+160,,,Westbound Dafoe at U of M (60  160  161  185),,49.80883272,-97.13045998,22/03/2013 9:53
+160,,,Westbound Dafoe at U of M (60  160  161  185),,49.80883272,-97.13045998,22/03/2013 9:56
+160,,,Westbound Dafoe at U of M (School of Music),,49.80677181,-97.13652987,22/03/2013 9:57
+160,,,Northbound University at Chancellor Matheson,,49.80715405,-97.13960079,22/03/2013 9:58
+160,,,Northbound University at Dysart,,49.8096781,-97.1416168,22/03/2013 9:58
+160,,,Northbound University at Markham,,49.81202498,-97.14548855,22/03/2013 9:59
+160,,,Northbound University at Thatcher,,49.81508863,-97.14694229,22/03/2013 10:00
+160,,,Northbound University at Wedgewood,,49.81737739,-97.14944064,22/03/2013 10:01
+160,,,Northbound University at Pembina,,49.81814785,-97.15149659,22/03/2013 10:02
+160,,,Northbound Pembina at Plaza,,49.82272557,-97.15257344,22/03/2013 10:03
+160,,,Northbound Pembina at Adamar,,49.82402208,-97.15264918,22/03/2013 10:04
+160,,,Northbound Pembina at Adamar North,,49.82575264,-97.15230517,22/03/2013 10:04
+160,,,Northbound Pembina at Manahan South,,49.82821836,-97.15180796,22/03/2013 10:05
+160,,,Northbound Pembina at Manahan,,49.82936526,-97.15152786,22/03/2013 10:05
+160,,,Northbound Pembina at Crescent,,49.83183551,-97.15075227,22/03/2013 10:06
+160,,,Northbound Pembina at Nesbitt,,49.83274801,-97.15043934,22/03/2013 10:07
+160,,,Northbound Pembina at Crane,,49.83531726,-97.15023006,22/03/2013 10:07
+160,,,Northbound Pembina at Fletcher,,49.83694317,-97.15065478,22/03/2013 10:08
+160,,,Northbound Pembina at Dowker,,49.83916006,-97.15147424,22/03/2013 10:09
+160,,,Northbound Pembina at Waller,,49.84010763,-97.15223089,22/03/2013 10:09
+160,,,Northbound Pembina at Oakenwald,,49.84134619,-97.15318511,22/03/2013 10:10
+160,,,Northbound Pembina at Riverwood,,49.84261528,-97.15323411,22/03/2013 10:10
+160,,,Northbound Pembina at North Drive,,49.84521872,-97.15291234,22/03/2013 10:10
+160,,,Northbound Pembina at Point Road,,49.84802104,-97.1526525,22/03/2013 10:11
+160,,,Northbound Pembina at Calrossie,,49.84952996,-97.1525115,22/03/2013 10:11
+160,,,Northbound Pembina at Merriam,,49.85073057,-97.15221531,22/03/2013 10:12
+160,,,Northbound Southwest Transitway at Jubilee,,49.8539748,-97.15033859,22/03/2013 10:12
+160,,,Northbound Southwest Transitway at Fort Rouge Station,,49.86295705,-97.14504177,22/03/2013 10:15
+160,,,Northbound Southwest Transitway at Osborne Station,,49.8735548,-97.14065512,22/03/2013 10:17
+160,,,Northbound Southwest Transitway at Harkness Station,,49.88116613,-97.13459969,22/03/2013 10:19
+160,,,Eastbound Mayfair at Queen Elizabeth,,49.88451542,-97.13312021,22/03/2013 10:20
+160,,,Northbound Main at Assiniboine,,49.8868421,-97.13348987,22/03/2013 10:21
+160,,,Northbound Main at Broadway (Union Station),,49.88925684,-97.13485861,22/03/2013 10:22
+160,,,Westbound Graham at Garry (Winnipeg Square),,49.89279928,-97.13979028,22/03/2013 10:25
+160,,,Westbound Graham at Donald (MTS Centre),,49.89219472,-97.14247292,22/03/2013 10:27
+160,,,Westbound Graham at Edmonton (RWB),,49.89128697,-97.14644806,22/03/2013 10:28
+160,,,Westbound Graham at Vaughan (The Bay),,49.89069823,-97.14900463,22/03/2013 10:30
+160,,,Westbound Portage at Colony,,49.89120857,-97.15054451,22/03/2013 10:31
+160,,,Northbound Balmoral at Balmoral Station (160),,49.89124511,-97.15226959,22/03/2013 10:33
+160,,,Northbound Balmoral at Balmoral Station (160),,49.89124511,-97.15226959,22/03/2013 10:42
+160,,,Northbound Balmoral at Ellice,,49.8929003,-97.152276,22/03/2013 10:43
+160,,,Southbound Vaughan at Portage,,49.89152984,-97.14982213,22/03/2013 10:45
+160,,,Southbound Vaughan at Graham,,49.89074896,-97.14936469,22/03/2013 10:45
+160,,,Eastbound Graham at Edmonton (RWB),,49.89112962,-97.14673256,22/03/2013 10:46
+160,,,Eastbound Graham at Donald (MTS Centre),,49.89202051,-97.1428277,22/03/2013 10:48
+160,,,Eastbound Graham at Fort (Winnipeg Square),,49.89289396,-97.13896513,22/03/2013 10:49
+160,,,Southbound Main at St. Mary,,49.89135108,-97.13643475,22/03/2013 10:51
+160,,,Southbound Main at Broadway (Union Station),,49.88895613,-97.1351765,22/03/2013 10:53
+160,,,Southbound Main at Assiniboine,,49.88746751,-97.13434285,22/03/2013 10:53
+160,,,Southbound Queen Elizabeth at Stradbrook,,49.88390506,-97.13208575,22/03/2013 10:54
+160,,,Southbound Southwest Transitway at Harkness Station,,49.88072201,-97.1355077,22/03/2013 10:54
+160,,,Southbound Southwest Transitway at Osborne Station,,49.87330148,-97.14112415,22/03/2013 10:56
+160,,,Southbound Southwest Transitway at Fort Rouge Station,,49.86242072,-97.14581372,22/03/2013 10:59
+160,,,Southbound Southwest Transitway at Jubilee,,49.8538504,-97.15099723,22/03/2013 11:01
+160,,,Southbound Pembina at Calrossie,,49.8506844,-97.15270398,22/03/2013 11:02
+160,,,Southbound Pembina at Byng,,49.84946581,-97.15300084,22/03/2013 11:02
+160,,,Southbound Pembina at Windermere,,49.84788497,-97.15314456,22/03/2013 11:03
+160,,,Southbound Pembina at North Drive,,49.84564855,-97.15335499,22/03/2013 11:03
+160,,,Southbound Pembina at Southwood,,49.84294445,-97.1535693,22/03/2013 11:04
+160,,,Southbound Pembina at McGillivray,,49.84070882,-97.15326503,22/03/2013 11:05
+160,,,Southbound Pembina at Radisson,,49.83906828,-97.1519228,22/03/2013 11:05
+160,,,Southbound Pembina at Kelsey,,49.83779974,-97.15134531,22/03/2013 11:05
+160,,,Southbound Pembina at Clarence,,49.83667071,-97.15105459,22/03/2013 11:06
+160,,,Southbound Pembina at Royse,,49.83453939,-97.15052397,22/03/2013 11:06
+160,,,Southbound Pembina at Nesbitt,,49.83355231,-97.15067288,22/03/2013 11:07
+72,,,Westbound Kirkbridge at Allendale,,49.78294049,-97.16220028,22/03/2013 9:14
+72,,,Westbound Kirkbridge at Brentlawn South,,49.78141506,-97.16470295,22/03/2013 9:15
+72,,,Southbound Brentlawn at Allendale,,49.78047884,-97.16522452,22/03/2013 9:15
+72,,,Northbound Bairdmore at Brentlawn,,49.77843081,-97.16370443,22/03/2013 9:16
+72,,,Northbound Bairdmore at Point West,,49.77720531,-97.16640385,22/03/2013 9:16
+72,,,Northbound Bairdmore at Millstream,,49.77850038,-97.16866085,22/03/2013 9:17
+72,,,Northbound Bairdmore at Kirkbridge,,49.78029157,-97.16930178,22/03/2013 9:18
+72,,,Northbound Bairdmore at Kirkbridge,,49.78029157,-97.16930178,22/03/2013 9:21
+72,,,Northbound Bairdmore at Bernfield North,,49.78369128,-97.17041005,22/03/2013 9:22
+72,,,Northbound Bairdmore at Hawstead,,49.78607378,-97.16976457,22/03/2013 9:22
+72,,,Northbound Bairdmore at Sandusky,,49.78784302,-97.17015637,22/03/2013 9:23
+72,,,Northbound Bairdmore at Calderwood West,,49.79081265,-97.1679603,22/03/2013 9:24
+72,,,Northbound Bairdmore at Calderwood East,,49.79172441,-97.16532759,22/03/2013 9:25
+72,,,Northbound Bairdmore at Marrington,,49.79254909,-97.16287871,22/03/2013 9:25
+72,,,Northbound Bairdmore at Firbridge,,49.7940562,-97.15979249,22/03/2013 9:26
+72,,,Northbound Bairdmore at Pembina,,49.79479462,-97.1575829,22/03/2013 9:26
+72,,,Eastbound Dalhousie at Pembina East,,49.79511286,-97.15666761,22/03/2013 9:27
+72,,,Eastbound Dalhousie at Ulster,,49.79620384,-97.153444,22/03/2013 9:27
+72,,,Eastbound Dalhousie at Allegheny,,49.79700262,-97.15107905,22/03/2013 9:28
+72,,,Eastbound Dalhousie at Allegheny East,,49.79759437,-97.14870803,22/03/2013 9:28
+72,,,Eastbound Silverstone at McGill,,49.79659298,-97.14571687,22/03/2013 9:29
+72,,,Eastbound Silverstone at MacAlester,,49.79740059,-97.14335144,22/03/2013 9:29
+72,,,Eastbound Silverstone at Tunis,,49.79845679,-97.14022599,22/03/2013 9:30
+72,,,Eastbound Silverstone at Townsend,,49.79896351,-97.13873351,22/03/2013 9:30
+72,,,Eastbound Silverstone at Aurora,,49.7999254,-97.13590332,22/03/2013 9:31
+72,,,Eastbound Silverstone at King's Drive,,49.80127314,-97.13190468,22/03/2013 9:32
+72,,,Northbound King's at Pasadena,,49.80348792,-97.13258382,22/03/2013 9:32
+72,,,Northbound King's at Freedman,,49.80526198,-97.13326608,22/03/2013 9:33
+72,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 9:33
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 9:35
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 9:53
+72,,,Westbound Dafoe at U of M (School of Music),,49.80677181,-97.13652987,22/03/2013 9:53
+72,,,Southbound University at Freedman,,49.80417306,-97.13769982,22/03/2013 9:54
+72,,,Eastbound Freedman at King's Drive,,49.80517049,-97.13372825,22/03/2013 9:55
+72,,,Southbound King's at Pasadena,,49.8030299,-97.13262924,22/03/2013 9:56
+72,,,Westbound Silverstone at King's Drive,,49.80136528,-97.13204011,22/03/2013 9:56
+72,,,Westbound Silverstone at Aurora,,49.80009464,-97.13579954,22/03/2013 9:57
+72,,,Westbound Silverstone at Celtic,,49.79868628,-97.13995316,22/03/2013 9:57
+72,,,Westbound Silverstone at Tamworth,,49.79820541,-97.14137514,22/03/2013 9:58
+72,,,Westbound Silverstone at Laval,,49.79753566,-97.14336017,22/03/2013 9:58
+72,,,Westbound Silverstone at McGill,,49.79672805,-97.14572561,22/03/2013 9:58
+72,,,Westbound Dalhousie at Silverstone West,,49.79768547,-97.14821818,22/03/2013 9:59
+72,,,Westbound Dalhousie at Allegheny,,49.79696111,-97.15185882,22/03/2013 10:00
+72,,,Westbound Dalhousie at Ulster,,49.79630871,-97.1538152,22/03/2013 10:00
+72,,,Westbound Dalhousie at Pembina East,,49.79522605,-97.1569968,22/03/2013 10:01
+72,,,Southbound Bairdmore at Pembina,,49.79475417,-97.15843206,22/03/2013 10:01
+72,,,Southbound Bairdmore at Barnes,,49.79417771,-97.16007969,22/03/2013 10:01
+72,,,Southbound Bairdmore at Marrington,,49.79264141,-97.16302806,22/03/2013 10:02
+72,,,Southbound Bairdmore at Calderwood East,,49.79175645,-97.16564596,22/03/2013 10:03
+72,,,Southbound Bairdmore at Calderwood West,,49.79077583,-97.16847578,22/03/2013 10:03
+72,,,Southbound Bairdmore at Sandusky,,49.78760315,-97.17034602,22/03/2013 10:04
+72,,,Southbound Bairdmore at Hawstead,,49.78585101,-97.169898,22/03/2013 10:05
+72,,,Southbound Bairdmore at Bernfield North,,49.78396383,-97.17058038,22/03/2013 10:05
+72,,,Southbound Bairdmore at Kirkbridge,,49.78036722,-97.16953508,22/03/2013 10:07
+72,,,Southbound Bairdmore at Kirkbridge,,49.78036722,-97.16953508,22/03/2013 10:08
+72,,,Southbound Bairdmore at Millstream,,49.77850368,-97.16886909,22/03/2013 10:08
+72,,,Southbound Bairdmore at Point West,,49.77710447,-97.16685215,22/03/2013 10:09
+72,,,Southbound Bairdmore at Southborough,,49.77835625,-97.16354056,22/03/2013 10:09
+72,,,Northbound Brentlawn at Kirkbridge,,49.78088228,-97.16513982,22/03/2013 10:10
+72,,,Eastbound Kirkbridge at Allendale,,49.78284772,-97.16202319,22/03/2013 10:11
+72,,,Eastbound Kirkbridge at Hawstead,,49.78557371,-97.16318428,22/03/2013 10:12
+72,,,Eastbound Kirkbridge at Ainsworth,,49.78679389,-97.1629853,22/03/2013 10:12
+72,,,Eastbound Kirkbridge at Hillmartin,,49.7881156,-97.16068453,22/03/2013 10:13
+72,,,Eastbound Kirkbridge at Pembina West,,49.78891955,-97.15806982,22/03/2013 10:13
+72,,,Eastbound Killarney at Pembina East,,49.78959199,-97.15623808,22/03/2013 10:14
+72,,,Eastbound Killarney at Baylor,,49.79028783,-97.15418309,22/03/2013 10:14
+72,,,Eastbound Killarney at Caledon,,49.79111293,-97.15177576,22/03/2013 10:14
+72,,,Eastbound Killarney at Acadia,,49.79214352,-97.14872135,22/03/2013 10:15
+72,,,Eastbound Killarney at Briar Cliff,,49.79325181,-97.14546932,22/03/2013 10:15
+72,,,Northbound Dalhousie at Purdue,,49.79488428,-97.14574045,22/03/2013 10:16
+72,,,Northbound Dalhousie at Silverstone,,49.7962139,-97.14675965,22/03/2013 10:16
+72,,,Eastbound Silverstone at McGill,,49.79659298,-97.14571687,22/03/2013 10:16
+72,,,Eastbound Silverstone at MacAlester,,49.79740059,-97.14335144,22/03/2013 10:17
+72,,,Eastbound Silverstone at Tunis,,49.79845679,-97.14022599,22/03/2013 10:17
+72,,,Eastbound Silverstone at Townsend,,49.79896351,-97.13873351,22/03/2013 10:18
+72,,,Eastbound Silverstone at Aurora,,49.7999254,-97.13590332,22/03/2013 10:18
+72,,,Eastbound Silverstone at King's Drive,,49.80127314,-97.13190468,22/03/2013 10:19
+72,,,Northbound King's at Pasadena,,49.80348792,-97.13258382,22/03/2013 10:20
+72,,,Northbound King's at Freedman,,49.80526198,-97.13326608,22/03/2013 10:20
+72,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 10:20
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 10:22
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 10:30
+72,,,Westbound Dafoe at U of M (School of Music),,49.80677181,-97.13652987,22/03/2013 10:30
+72,,,Southbound University at Freedman,,49.80417306,-97.13769982,22/03/2013 10:31
+72,,,Eastbound Freedman at King's Drive,,49.80517049,-97.13372825,22/03/2013 10:32
+72,,,Southbound King's at Pasadena,,49.8030299,-97.13262924,22/03/2013 10:32
+72,,,Westbound Silverstone at King's Drive,,49.80136528,-97.13204011,22/03/2013 10:33
+72,,,Westbound Silverstone at Aurora,,49.80009464,-97.13579954,22/03/2013 10:33
+72,,,Westbound Silverstone at Celtic,,49.79868628,-97.13995316,22/03/2013 10:34
+72,,,Westbound Silverstone at Tamworth,,49.79820541,-97.14137514,22/03/2013 10:34
+72,,,Westbound Silverstone at Laval,,49.79753566,-97.14336017,22/03/2013 10:34
+72,,,Westbound Silverstone at McGill,,49.79672805,-97.14572561,22/03/2013 10:35
+72,,,Southbound Dalhousie at Purdue,,49.79555276,-97.14647919,22/03/2013 10:35
+72,,,Southbound Dalhousie at Killarney,,49.79369372,-97.14498,22/03/2013 10:36
+72,,,Westbound Killarney at Briar Cliff,,49.79319778,-97.14602719,22/03/2013 10:36
+72,,,Westbound Killarney at Acadia,,49.7924162,-97.14833579,22/03/2013 10:36
+72,,,Westbound Killarney at Caledon,,49.79111892,-97.15215068,22/03/2013 10:37
+72,,,Westbound Killarney at Baylor,,49.79025108,-97.15469857,22/03/2013 10:37
+72,,,Westbound Killarney at Pembina East,,49.78962449,-97.15658419,22/03/2013 10:38
+72,,,Westbound Kirkbridge at Pembina West,,49.78902506,-97.15848263,22/03/2013 10:38
+72,,,Westbound Kirkbridge at Marrington,,49.78812878,-97.16094801,22/03/2013 10:38
+72,,,Westbound Kirkbridge at Ainsworth,,49.78668231,-97.16332296,22/03/2013 10:39
+72,,,Westbound Kirkbridge at Brentlawn North,,49.78508694,-97.16311933,22/03/2013 10:39
+72,,,Westbound Kirkbridge at Allendale,,49.78294049,-97.16220028,22/03/2013 10:40
+72,,,Westbound Kirkbridge at Brentlawn South,,49.78141506,-97.16470295,22/03/2013 10:41
+72,,,Southbound Brentlawn at Allendale,,49.78047884,-97.16522452,22/03/2013 10:41
+72,,,Northbound Bairdmore at Brentlawn,,49.77843081,-97.16370443,22/03/2013 10:42
+72,,,Northbound Bairdmore at Point West,,49.77720531,-97.16640385,22/03/2013 10:42
+72,,,Northbound Bairdmore at Millstream,,49.77850038,-97.16866085,22/03/2013 10:43
+72,,,Northbound Bairdmore at Kirkbridge,,49.78029157,-97.16930178,22/03/2013 10:44
+72,,,Northbound Bairdmore at Kirkbridge,,49.78029157,-97.16930178,22/03/2013 10:45
+72,,,Northbound Bairdmore at Bernfield North,,49.78369128,-97.17041005,22/03/2013 10:46
+72,,,Northbound Bairdmore at Hawstead,,49.78607378,-97.16976457,22/03/2013 10:46
+72,,,Northbound Bairdmore at Sandusky,,49.78784302,-97.17015637,22/03/2013 10:47
+72,,,Northbound Bairdmore at Calderwood West,,49.79081265,-97.1679603,22/03/2013 10:48
+72,,,Northbound Bairdmore at Calderwood East,,49.79172441,-97.16532759,22/03/2013 10:49
+72,,,Northbound Bairdmore at Marrington,,49.79254909,-97.16287871,22/03/2013 10:49
+72,,,Northbound Bairdmore at Firbridge,,49.7940562,-97.15979249,22/03/2013 10:50
+72,,,Northbound Bairdmore at Pembina,,49.79479462,-97.1575829,22/03/2013 10:50
+72,,,Eastbound Dalhousie at Pembina East,,49.79511286,-97.15666761,22/03/2013 10:51
+72,,,Eastbound Dalhousie at Ulster,,49.79620384,-97.153444,22/03/2013 10:51
+72,,,Eastbound Dalhousie at Allegheny,,49.79700262,-97.15107905,22/03/2013 10:52
+72,,,Eastbound Dalhousie at Allegheny East,,49.79759437,-97.14870803,22/03/2013 10:52
+72,,,Eastbound Silverstone at McGill,,49.79659298,-97.14571687,22/03/2013 10:53
+72,,,Eastbound Silverstone at MacAlester,,49.79740059,-97.14335144,22/03/2013 10:53
+72,,,Eastbound Silverstone at Tunis,,49.79845679,-97.14022599,22/03/2013 10:54
+72,,,Eastbound Silverstone at Townsend,,49.79896351,-97.13873351,22/03/2013 10:54
+72,,,Eastbound Silverstone at Aurora,,49.7999254,-97.13590332,22/03/2013 10:55
+72,,,Eastbound Silverstone at King's Drive,,49.80127314,-97.13190468,22/03/2013 10:56
+72,,,Northbound King's at Pasadena,,49.80348792,-97.13258382,22/03/2013 10:56
+72,,,Northbound King's at Freedman,,49.80526198,-97.13326608,22/03/2013 10:57
+72,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 10:57
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 10:59
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 11:08
+72,,,Westbound Dafoe at U of M (School of Music),,49.80677181,-97.13652987,22/03/2013 11:08
+72,,,Southbound University at Freedman,,49.80417306,-97.13769982,22/03/2013 11:09
+72,,,Eastbound Freedman at King's Drive,,49.80517049,-97.13372825,22/03/2013 11:10
+72,,,Southbound King's at Pasadena,,49.8030299,-97.13262924,22/03/2013 11:11
+72,,,Westbound Silverstone at King's Drive,,49.80136528,-97.13204011,22/03/2013 11:11
+72,,,Westbound Silverstone at Aurora,,49.80009464,-97.13579954,22/03/2013 11:12
+72,,,Westbound Silverstone at Celtic,,49.79868628,-97.13995316,22/03/2013 11:12
+72,,,Westbound Silverstone at Tamworth,,49.79820541,-97.14137514,22/03/2013 11:13
+72,,,Westbound Silverstone at Laval,,49.79753566,-97.14336017,22/03/2013 11:13
+72,,,Westbound Silverstone at McGill,,49.79672805,-97.14572561,22/03/2013 11:13
+72,,,Westbound Dalhousie at Silverstone West,,49.79768547,-97.14821818,22/03/2013 11:14
+72,,,Westbound Dalhousie at Allegheny,,49.79696111,-97.15185882,22/03/2013 11:15
+72,,,Westbound Dalhousie at Ulster,,49.79630871,-97.1538152,22/03/2013 11:15
+72,,,Westbound Dalhousie at Pembina East,,49.79522605,-97.1569968,22/03/2013 11:16
+72,,,Southbound Bairdmore at Pembina,,49.79475417,-97.15843206,22/03/2013 11:16
+72,,,Southbound Bairdmore at Barnes,,49.79417771,-97.16007969,22/03/2013 11:16
+72,,,Southbound Bairdmore at Marrington,,49.79264141,-97.16302806,22/03/2013 11:17
+72,,,Southbound Bairdmore at Calderwood East,,49.79175645,-97.16564596,22/03/2013 11:18
+72,,,Southbound Bairdmore at Calderwood West,,49.79077583,-97.16847578,22/03/2013 11:18
+72,,,Southbound Bairdmore at Sandusky,,49.78760315,-97.17034602,22/03/2013 11:19
+72,,,Southbound Bairdmore at Hawstead,,49.78585101,-97.169898,22/03/2013 11:20
+72,,,Southbound Bairdmore at Bernfield North,,49.78396383,-97.17058038,22/03/2013 11:20
+72,,,Southbound Bairdmore at Kirkbridge,,49.78036722,-97.16953508,22/03/2013 11:22
+72,,,Southbound Bairdmore at Kirkbridge,,49.78036722,-97.16953508,22/03/2013 11:23
+72,,,Southbound Bairdmore at Millstream,,49.77850368,-97.16886909,22/03/2013 11:23
+72,,,Southbound Bairdmore at Point West,,49.77710447,-97.16685215,22/03/2013 11:24
+72,,,Southbound Bairdmore at Southborough,,49.77835625,-97.16354056,22/03/2013 11:24
+72,,,Northbound Brentlawn at Kirkbridge,,49.78088228,-97.16513982,22/03/2013 11:25
+72,,,Eastbound Kirkbridge at Allendale,,49.78284772,-97.16202319,22/03/2013 11:26
+72,,,Eastbound Kirkbridge at Hawstead,,49.78557371,-97.16318428,22/03/2013 11:27
+72,,,Eastbound Kirkbridge at Ainsworth,,49.78679389,-97.1629853,22/03/2013 11:27
+72,,,Eastbound Kirkbridge at Hillmartin,,49.7881156,-97.16068453,22/03/2013 11:28
+72,,,Eastbound Kirkbridge at Pembina West,,49.78891955,-97.15806982,22/03/2013 11:28
+72,,,Eastbound Killarney at Pembina East,,49.78959199,-97.15623808,22/03/2013 11:29
+72,,,Eastbound Killarney at Baylor,,49.79028783,-97.15418309,22/03/2013 11:29
+72,,,Eastbound Killarney at Caledon,,49.79111293,-97.15177576,22/03/2013 11:29
+72,,,Eastbound Killarney at Acadia,,49.79214352,-97.14872135,22/03/2013 11:30
+72,,,Eastbound Killarney at Briar Cliff,,49.79325181,-97.14546932,22/03/2013 11:30
+72,,,Northbound Dalhousie at Purdue,,49.79488428,-97.14574045,22/03/2013 11:31
+72,,,Northbound Dalhousie at Silverstone,,49.7962139,-97.14675965,22/03/2013 11:31
+72,,,Eastbound Silverstone at McGill,,49.79659298,-97.14571687,22/03/2013 11:31
+72,,,Eastbound Silverstone at MacAlester,,49.79740059,-97.14335144,22/03/2013 11:32
+72,,,Eastbound Silverstone at Tunis,,49.79845679,-97.14022599,22/03/2013 11:32
+72,,,Eastbound Silverstone at Townsend,,49.79896351,-97.13873351,22/03/2013 11:33
+72,,,Eastbound Silverstone at Aurora,,49.7999254,-97.13590332,22/03/2013 11:33
+72,,,Eastbound Silverstone at King's Drive,,49.80127314,-97.13190468,22/03/2013 11:34
+72,,,Northbound King's at Pasadena,,49.80348792,-97.13258382,22/03/2013 11:35
+72,,,Northbound King's at Freedman,,49.80526198,-97.13326608,22/03/2013 11:35
+72,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 11:35
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 11:37
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 11:53
+72,,,Westbound Dafoe at U of M (School of Music),,49.80677181,-97.13652987,22/03/2013 11:53
+72,,,Southbound University at Freedman,,49.80417306,-97.13769982,22/03/2013 11:54
+72,,,Eastbound Freedman at King's Drive,,49.80517049,-97.13372825,22/03/2013 11:55
+72,,,Southbound King's at Pasadena,,49.8030299,-97.13262924,22/03/2013 11:55
+72,,,Westbound Silverstone at King's Drive,,49.80136528,-97.13204011,22/03/2013 11:56
+72,,,Westbound Silverstone at Aurora,,49.80009464,-97.13579954,22/03/2013 11:56
+72,,,Westbound Silverstone at Celtic,,49.79868628,-97.13995316,22/03/2013 11:57
+72,,,Westbound Silverstone at Tamworth,,49.79820541,-97.14137514,22/03/2013 11:57
+72,,,Westbound Silverstone at Laval,,49.79753566,-97.14336017,22/03/2013 11:57
+72,,,Westbound Silverstone at McGill,,49.79672805,-97.14572561,22/03/2013 11:58
+72,,,Southbound Dalhousie at Purdue,,49.79555276,-97.14647919,22/03/2013 11:58
+72,,,Southbound Dalhousie at Killarney,,49.79369372,-97.14498,22/03/2013 11:59
+72,,,Westbound Killarney at Briar Cliff,,49.79319778,-97.14602719,22/03/2013 11:59
+72,,,Westbound Killarney at Acadia,,49.7924162,-97.14833579,22/03/2013 11:59
+72,,,Westbound Killarney at Caledon,,49.79111892,-97.15215068,22/03/2013 12:00
+72,,,Westbound Killarney at Baylor,,49.79025108,-97.15469857,22/03/2013 12:00
+72,,,Westbound Killarney at Pembina East,,49.78962449,-97.15658419,22/03/2013 12:01
+72,,,Westbound Kirkbridge at Pembina West,,49.78902506,-97.15848263,22/03/2013 12:01
+72,,,Westbound Kirkbridge at Marrington,,49.78812878,-97.16094801,22/03/2013 12:01
+72,,,Westbound Kirkbridge at Ainsworth,,49.78668231,-97.16332296,22/03/2013 12:02
+72,,,Westbound Kirkbridge at Brentlawn North,,49.78508694,-97.16311933,22/03/2013 12:02
+72,,,Westbound Kirkbridge at Allendale,,49.78294049,-97.16220028,22/03/2013 12:03
+72,,,Westbound Kirkbridge at Brentlawn South,,49.78141506,-97.16470295,22/03/2013 12:04
+72,,,Southbound Brentlawn at Allendale,,49.78047884,-97.16522452,22/03/2013 12:04
+72,,,Northbound Bairdmore at Brentlawn,,49.77843081,-97.16370443,22/03/2013 12:05
+72,,,Northbound Bairdmore at Point West,,49.77720531,-97.16640385,22/03/2013 12:05
+72,,,Northbound Bairdmore at Millstream,,49.77850038,-97.16866085,22/03/2013 12:06
+72,,,Northbound Bairdmore at Kirkbridge,,49.78029157,-97.16930178,22/03/2013 12:07
+72,,,Northbound Bairdmore at Kirkbridge,,49.78029157,-97.16930178,22/03/2013 12:07
+72,,,Northbound Bairdmore at Bernfield North,,49.78369128,-97.17041005,22/03/2013 12:08
+72,,,Northbound Bairdmore at Hawstead,,49.78607378,-97.16976457,22/03/2013 12:08
+72,,,Northbound Bairdmore at Sandusky,,49.78784302,-97.17015637,22/03/2013 12:09
+72,,,Northbound Bairdmore at Calderwood West,,49.79081265,-97.1679603,22/03/2013 12:10
+72,,,Northbound Bairdmore at Calderwood East,,49.79172441,-97.16532759,22/03/2013 12:11
+72,,,Northbound Bairdmore at Marrington,,49.79254909,-97.16287871,22/03/2013 12:11
+72,,,Northbound Bairdmore at Firbridge,,49.7940562,-97.15979249,22/03/2013 12:12
+72,,,Northbound Bairdmore at Pembina,,49.79479462,-97.1575829,22/03/2013 12:12
+72,,,Eastbound Dalhousie at Pembina East,,49.79511286,-97.15666761,22/03/2013 12:13
+72,,,Eastbound Dalhousie at Ulster,,49.79620384,-97.153444,22/03/2013 12:13
+72,,,Eastbound Dalhousie at Allegheny,,49.79700262,-97.15107905,22/03/2013 12:14
+72,,,Eastbound Dalhousie at Allegheny East,,49.79759437,-97.14870803,22/03/2013 12:14
+72,,,Eastbound Silverstone at McGill,,49.79659298,-97.14571687,22/03/2013 12:15
+72,,,Eastbound Silverstone at MacAlester,,49.79740059,-97.14335144,22/03/2013 12:15
+72,,,Eastbound Silverstone at Tunis,,49.79845679,-97.14022599,22/03/2013 12:16
+72,,,Eastbound Silverstone at Townsend,,49.79896351,-97.13873351,22/03/2013 12:16
+72,,,Eastbound Silverstone at Aurora,,49.7999254,-97.13590332,22/03/2013 12:17
+72,,,Eastbound Silverstone at King's Drive,,49.80127314,-97.13190468,22/03/2013 12:18
+72,,,Northbound King's at Pasadena,,49.80348792,-97.13258382,22/03/2013 12:18
+72,,,Northbound King's at Freedman,,49.80526198,-97.13326608,22/03/2013 12:19
+72,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 12:19
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 12:21
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 12:25
+72,,,Westbound Dafoe at U of M (School of Music),,49.80677181,-97.13652987,22/03/2013 12:25
+72,,,Southbound University at Freedman,,49.80417306,-97.13769982,22/03/2013 12:26
+72,,,Eastbound Freedman at King's Drive,,49.80517049,-97.13372825,22/03/2013 12:27
+72,,,Southbound King's at Pasadena,,49.8030299,-97.13262924,22/03/2013 12:28
+72,,,Westbound Silverstone at King's Drive,,49.80136528,-97.13204011,22/03/2013 12:28
+72,,,Westbound Silverstone at Aurora,,49.80009464,-97.13579954,22/03/2013 12:29
+72,,,Westbound Silverstone at Celtic,,49.79868628,-97.13995316,22/03/2013 12:29
+72,,,Westbound Silverstone at Tamworth,,49.79820541,-97.14137514,22/03/2013 12:30
+72,,,Westbound Silverstone at Laval,,49.79753566,-97.14336017,22/03/2013 12:30
+72,,,Westbound Silverstone at McGill,,49.79672805,-97.14572561,22/03/2013 12:30
+72,,,Westbound Dalhousie at Silverstone West,,49.79768547,-97.14821818,22/03/2013 12:31
+72,,,Westbound Dalhousie at Allegheny,,49.79696111,-97.15185882,22/03/2013 12:32
+72,,,Westbound Dalhousie at Ulster,,49.79630871,-97.1538152,22/03/2013 12:32
+72,,,Westbound Dalhousie at Pembina East,,49.79522605,-97.1569968,22/03/2013 12:33
+72,,,Southbound Bairdmore at Pembina,,49.79475417,-97.15843206,22/03/2013 12:33
+72,,,Southbound Bairdmore at Barnes,,49.79417771,-97.16007969,22/03/2013 12:33
+72,,,Southbound Bairdmore at Marrington,,49.79264141,-97.16302806,22/03/2013 12:34
+72,,,Southbound Bairdmore at Calderwood East,,49.79175645,-97.16564596,22/03/2013 12:35
+72,,,Southbound Bairdmore at Calderwood West,,49.79077583,-97.16847578,22/03/2013 12:35
+72,,,Southbound Bairdmore at Sandusky,,49.78760315,-97.17034602,22/03/2013 12:36
+72,,,Southbound Bairdmore at Hawstead,,49.78585101,-97.169898,22/03/2013 12:37
+72,,,Southbound Bairdmore at Bernfield North,,49.78396383,-97.17058038,22/03/2013 12:37
+72,,,Southbound Bairdmore at Kirkbridge,,49.78036722,-97.16953508,22/03/2013 12:39
+72,,,Southbound Bairdmore at Kirkbridge,,49.78036722,-97.16953508,22/03/2013 12:41
+72,,,Southbound Bairdmore at Millstream,,49.77850368,-97.16886909,22/03/2013 12:41
+72,,,Southbound Bairdmore at Point West,,49.77710447,-97.16685215,22/03/2013 12:42
+72,,,Southbound Bairdmore at Southborough,,49.77835625,-97.16354056,22/03/2013 12:42
+72,,,Northbound Brentlawn at Kirkbridge,,49.78088228,-97.16513982,22/03/2013 12:43
+72,,,Eastbound Kirkbridge at Allendale,,49.78284772,-97.16202319,22/03/2013 12:44
+72,,,Eastbound Kirkbridge at Hawstead,,49.78557371,-97.16318428,22/03/2013 12:45
+72,,,Eastbound Kirkbridge at Ainsworth,,49.78679389,-97.1629853,22/03/2013 12:45
+72,,,Eastbound Kirkbridge at Hillmartin,,49.7881156,-97.16068453,22/03/2013 12:46
+72,,,Eastbound Kirkbridge at Pembina West,,49.78891955,-97.15806982,22/03/2013 12:46
+72,,,Eastbound Killarney at Pembina East,,49.78959199,-97.15623808,22/03/2013 12:47
+72,,,Eastbound Killarney at Baylor,,49.79028783,-97.15418309,22/03/2013 12:47
+72,,,Eastbound Killarney at Caledon,,49.79111293,-97.15177576,22/03/2013 12:47
+72,,,Eastbound Killarney at Acadia,,49.79214352,-97.14872135,22/03/2013 12:48
+72,,,Eastbound Killarney at Briar Cliff,,49.79325181,-97.14546932,22/03/2013 12:48
+72,,,Northbound Dalhousie at Purdue,,49.79488428,-97.14574045,22/03/2013 12:49
+72,,,Northbound Dalhousie at Silverstone,,49.7962139,-97.14675965,22/03/2013 12:49
+72,,,Eastbound Silverstone at McGill,,49.79659298,-97.14571687,22/03/2013 12:49
+72,,,Eastbound Silverstone at MacAlester,,49.79740059,-97.14335144,22/03/2013 12:50
+72,,,Eastbound Silverstone at Tunis,,49.79845679,-97.14022599,22/03/2013 12:50
+72,,,Eastbound Silverstone at Townsend,,49.79896351,-97.13873351,22/03/2013 12:51
+72,,,Eastbound Silverstone at Aurora,,49.7999254,-97.13590332,22/03/2013 12:51
+72,,,Eastbound Silverstone at King's Drive,,49.80127314,-97.13190468,22/03/2013 12:52
+72,,,Northbound King's at Pasadena,,49.80348792,-97.13258382,22/03/2013 12:53
+72,,,Northbound King's at Freedman,,49.80526198,-97.13326608,22/03/2013 12:53
+72,,,Eastbound Freedman at Maclean,,49.80652352,-97.13117441,22/03/2013 12:53
+72,,,Westbound Dafoe at U of M (72  78),,49.80834365,-97.13192437,22/03/2013 12:55
+99,,,Westbound Rupert at Princess,,49.90154849,-97.13960696,22/03/2013 6:20
+99,,,Southbound Princess at James,,49.90100501,-97.14049128,22/03/2013 6:20
+99,,,Southbound Princess at William (Red River College),,49.89993767,-97.14124253,22/03/2013 6:20
+99,,,Southbound Princess at McDermot,,49.89789265,-97.14272757,22/03/2013 6:21
+99,,,Southbound Donald at Notre Dame,,49.89630273,-97.14398614,22/03/2013 6:21
+99,,,Southbound Donald at Ellice,,49.89455988,-97.14412263,22/03/2013 6:22
+99,,,Southbound Donald at Portage South,,49.89310795,-97.14332898,22/03/2013 6:23
+99,,,Southbound Donald at Graham,,49.89170164,-97.14257539,22/03/2013 6:23
+99,,,Southbound Donald at St. Mary,,49.89037667,-97.14184657,22/03/2013 6:23
+99,,,Southbound Donald at York,,49.88877056,-97.14097544,22/03/2013 6:24
+99,,,Southbound Donald at Broadway,,49.88789031,-97.14049413,22/03/2013 6:24
+99,,,Southbound Donald at Hargrave Place,,49.88598553,-97.13950928,22/03/2013 6:25
+99,,,Southbound Donald at River,,49.88185053,-97.13744095,22/03/2013 6:26
+99,,,Southbound Donald at Stradbrook,,49.8797809,-97.13795211,22/03/2013 6:27
+99,,,Southbound Donald at Gertrude,,49.87757124,-97.13870525,22/03/2013 6:27
+99,,,Southbound Pembina at Osborne Junction,,49.87456972,-97.14280134,22/03/2013 6:29
+99,,,Southbound Pembina at Warsaw,,49.87187229,-97.1439904,22/03/2013 6:29
+99,,,Southbound Pembina at Fleet,,49.86959735,-97.14516314,22/03/2013 6:30
+99,,,Southbound Pembina at Dudley,,49.86791704,-97.1463965,22/03/2013 6:31
+99,,,Southbound Pembina at Scotland,,49.86614691,-97.14707656,22/03/2013 6:31
+99,,,Southbound Pembina at Grant,,49.86423339,-97.14778989,22/03/2013 6:32
+99,,,Southbound Pembina at Arbuthnot,,49.86256791,-97.14882764,22/03/2013 6:32
+99,,,Southbound Pembina at Ebby,,49.86088534,-97.14992163,22/03/2013 6:33
+99,,,Southbound Pembina at Taylor,,49.85886248,-97.15111201,22/03/2013 6:33
+99,,,Southbound Pembina at Stafford,,49.85686636,-97.15228736,22/03/2013 6:34
+99,,,Southbound Pembina at Calrossie,,49.8506844,-97.15270398,22/03/2013 6:36
+99,,,Southbound Pembina at Byng,,49.84946581,-97.15300084,22/03/2013 6:36
+99,,,Westbound Windermere at Windermere Terminal,,49.84797719,-97.1538505,22/03/2013 6:37
+99,,,Westbound Windermere at Windermere Terminal,,49.84797719,-97.1538505,22/03/2013 6:41
+99,,,Northbound Pembina at Calrossie,,49.84952996,-97.1525115,22/03/2013 6:41
+99,,,Northbound Pembina at Merriam,,49.85073057,-97.15221531,22/03/2013 6:41
+99,,,Northbound Pembina at Stafford,,49.85652864,-97.15198024,22/03/2013 6:43
+99,,,Northbound Pembina at Taylor,,49.85838226,-97.15089381,22/03/2013 6:44
+99,,,Northbound Pembina at Jackson,,49.85963979,-97.15021966,22/03/2013 6:44
+99,,,Northbound Pembina at Arbuthnot,,49.86266934,-97.14842023,22/03/2013 6:45
+99,,,Northbound Pembina at Grant,,49.86436943,-97.14729765,22/03/2013 6:45
+99,,,Northbound Pembina at Hugo,,49.86678436,-97.14643986,22/03/2013 6:46
+99,,,Northbound Pembina at Daly,,49.86843384,-97.1455278,22/03/2013 6:47
+99,,,Northbound Pembina at Nassau,,49.8714451,-97.14371451,22/03/2013 6:48
+99,,,Northbound Pembina at Osborne,,49.87445135,-97.14215172,22/03/2013 6:49
+99,,,Northbound Donald at Wardlaw,,49.87895253,-97.13790046,22/03/2013 6:50
+99,,,Eastbound Stradbrook at Donald East,,49.88052579,-97.13616951,22/03/2013 6:51
+99,,,Westbound River at Donald East,,49.88259784,-97.13636813,22/03/2013 6:52
+99,,,Northbound Smith at Navy,,49.88651331,-97.13820817,22/03/2013 6:53
+99,,,Northbound Smith at Broadway,,49.88840665,-97.13904028,22/03/2013 6:53
+99,,,Northbound Smith at St. Mary,,49.89086583,-97.14037977,22/03/2013 6:54
+99,,,Northbound Smith at Graham South,,49.89218159,-97.14109499,22/03/2013 6:55
+99,,,Northbound Smith at Portage South,,49.89394208,-97.14205772,22/03/2013 6:55
+99,,,Northbound Smith at Portage North,,49.89451378,-97.14236995,22/03/2013 6:55
+99,,,Northbound King at Notre Dame,,49.89642,-97.14232459,22/03/2013 6:56
+99,,,Northbound King at McDermot,,49.89735295,-97.14160644,22/03/2013 6:57
+99,,,Northbound King at William (City Hall),,49.89964518,-97.13983335,22/03/2013 6:58
+99,,,Westbound Rupert at Princess,,49.90154849,-97.13960696,22/03/2013 6:59
+99,,,Westbound Rupert at Princess,,49.90154849,-97.13960696,22/03/2013 7:00
+99,,,Southbound Princess at James,,49.90100501,-97.14049128,22/03/2013 7:00
+99,,,Southbound Princess at William (Red River College),,49.89993767,-97.14124253,22/03/2013 7:00
+99,,,Southbound Princess at McDermot,,49.89789265,-97.14272757,22/03/2013 7:01
+99,,,Southbound Donald at Notre Dame,,49.89630273,-97.14398614,22/03/2013 7:01
+99,,,Southbound Donald at Ellice,,49.89455988,-97.14412263,22/03/2013 7:02
+99,,,Southbound Donald at Portage South,,49.89310795,-97.14332898,22/03/2013 7:03
+99,,,Southbound Donald at Graham,,49.89170164,-97.14257539,22/03/2013 7:03
+99,,,Southbound Donald at St. Mary,,49.89037667,-97.14184657,22/03/2013 7:03
+99,,,Southbound Donald at York,,49.88877056,-97.14097544,22/03/2013 7:04
+99,,,Southbound Donald at Broadway,,49.88789031,-97.14049413,22/03/2013 7:04
+99,,,Southbound Donald at Hargrave Place,,49.88598553,-97.13950928,22/03/2013 7:05
+99,,,Southbound Donald at River,,49.88185053,-97.13744095,22/03/2013 7:06
+99,,,Southbound Donald at Stradbrook,,49.8797809,-97.13795211,22/03/2013 7:07
+99,,,Southbound Donald at Gertrude,,49.87757124,-97.13870525,22/03/2013 7:07
+99,,,Southbound Pembina at Osborne Junction,,49.87456972,-97.14280134,22/03/2013 7:09
+99,,,Southbound Pembina at Warsaw,,49.87187229,-97.1439904,22/03/2013 7:09
+99,,,Southbound Pembina at Fleet,,49.86959735,-97.14516314,22/03/2013 7:10
+99,,,Southbound Pembina at Dudley,,49.86791704,-97.1463965,22/03/2013 7:11
+99,,,Southbound Pembina at Scotland,,49.86614691,-97.14707656,22/03/2013 7:11
+99,,,Southbound Pembina at Grant,,49.86423339,-97.14778989,22/03/2013 7:12
+99,,,Southbound Pembina at Arbuthnot,,49.86256791,-97.14882764,22/03/2013 7:12
+99,,,Southbound Pembina at Ebby,,49.86088534,-97.14992163,22/03/2013 7:13
+99,,,Southbound Pembina at Taylor,,49.85886248,-97.15111201,22/03/2013 7:13
+99,,,Southbound Pembina at Stafford,,49.85686636,-97.15228736,22/03/2013 7:14
+99,,,Southbound Pembina at Calrossie,,49.8506844,-97.15270398,22/03/2013 7:16
+99,,,Southbound Pembina at Byng,,49.84946581,-97.15300084,22/03/2013 7:16
+99,,,Westbound Windermere at Windermere Terminal,,49.84797719,-97.1538505,22/03/2013 7:17
+99,,,Westbound Windermere at Windermere Terminal,,49.84797719,-97.1538505,22/03/2013 7:21
+99,,,Northbound Pembina at Calrossie,,49.84952996,-97.1525115,22/03/2013 7:21
+99,,,Northbound Pembina at Merriam,,49.85073057,-97.15221531,22/03/2013 7:21
+99,,,Northbound Pembina at Stafford,,49.85652864,-97.15198024,22/03/2013 7:23
+99,,,Northbound Pembina at Taylor,,49.85838226,-97.15089381,22/03/2013 7:24
+99,,,Northbound Pembina at Jackson,,49.85963979,-97.15021966,22/03/2013 7:24
+99,,,Northbound Pembina at Arbuthnot,,49.86266934,-97.14842023,22/03/2013 7:25
+99,,,Northbound Pembina at Grant,,49.86436943,-97.14729765,22/03/2013 7:25
+99,,,Northbound Pembina at Hugo,,49.86678436,-97.14643986,22/03/2013 7:26
+99,,,Northbound Pembina at Daly,,49.86843384,-97.1455278,22/03/2013 7:27
+99,,,Northbound Pembina at Nassau,,49.8714451,-97.14371451,22/03/2013 7:28
+99,,,Northbound Pembina at Osborne,,49.87445135,-97.14215172,22/03/2013 7:29
+99,,,Northbound Donald at Wardlaw,,49.87895253,-97.13790046,22/03/2013 7:30

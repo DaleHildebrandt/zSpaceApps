@@ -1,0 +1,20 @@
+﻿Build started 4/25/2013 3:32:35 PM.
+     1>Project "C:\Users\z-space\zSpaceApps\SpaceTimeCube\VisualStudio\zSpaceBase.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SpaceTimeCube.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\SpaceTimeCube.unsuccessfulbuild".
+         Touching "Debug\SpaceTimeCube.lastbuildstate".
+     1>Done Building Project "C:\Users\z-space\zSpaceApps\SpaceTimeCube\VisualStudio\zSpaceBase.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

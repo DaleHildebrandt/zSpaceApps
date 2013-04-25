@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\DrawnObjects">
+      <UniqueIdentifier>{965bb258-f223-4931-bdbf-6209921da333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DrawnObjects">
+      <UniqueIdentifier>{e3d2bcbc-69e1-4df9-8db1-eb96c8461c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataAccess">
+      <UniqueIdentifier>{111f9511-ef91-43b5-8deb-80309673e0f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DataAccess">
+      <UniqueIdentifier>{a9ca2cb4-f5aa-48fc-bb09-d2ec4205b9d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Utilities">
+      <UniqueIdentifier>{4db9fde3-5220-4e61-891e-5fdbc10dbff4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utilities">
+      <UniqueIdentifier>{a56c36ed-eeb7-41a1-94d5-925f0ce07490}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Objects">
+      <UniqueIdentifier>{0d826aa0-0b5e-451c-88e5-c30bf5d31b2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Objects">
+      <UniqueIdentifier>{3542337f-9a38-41f9-a837-e9c47e088d28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\source\OpenGlScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\StereoNoTracking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DrawnObjects\VisPath.cpp">
+      <Filter>Source Files\DrawnObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DrawnObjects\VisST.cpp">
+      <Filter>Source Files\DrawnObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DrawnObjects\VisPlane.cpp">
+      <Filter>Source Files\DrawnObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DrawnObjects\VisPolyLine.cpp">
+      <Filter>Source Files\DrawnObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DrawnObjects\VisSphere.cpp">
+      <Filter>Source Files\DrawnObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DataAccess\DataAccessCSV.cpp">
+      <Filter>Source Files\DataAccess</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\DataAccess\DataAccessInterface.cpp">
+      <Filter>Source Files\DataAccess</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Utilities\ObjectTracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Utilities\Coordinator.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Utilities\Interval.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Utilities\Parser.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Objects\DataPath.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Objects\DataPoint.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Utilities\OpenGlWindow.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Objects\ColorRGB.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Objects\AnnotatedPoint.cpp">
+      <Filter>Source Files\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\Utilities\ButtonManager.cpp">
+      <Filter>Source Files\Utilities</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\source\OpenGlScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DrawnObjects\VisPath.h">
+      <Filter>Header Files\DrawnObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DrawnObjects\VisST.h">
+      <Filter>Header Files\DrawnObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DrawnObjects\VisPlane.h">
+      <Filter>Header Files\DrawnObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DrawnObjects\VisPolyLine.h">
+      <Filter>Header Files\DrawnObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DrawnObjects\VisSphere.h">
+      <Filter>Header Files\DrawnObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DataAccess\DataAccessCSV.hpp">
+      <Filter>Header Files\DataAccess</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\DataAccess\DataAccessInterface.hpp">
+      <Filter>Header Files\DataAccess</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Utilities\ObjectTracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Utilities\Coordinator.hpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Utilities\Interval.hpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Utilities\Parser.hpp">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Objects\DataPath.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Objects\DataPoint.hpp">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Utilities\OpenGlWindow.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Objects\ColorRGB.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Objects\AnnotatedPoint.h">
+      <Filter>Header Files\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\Utilities\ButtonManager.h">
+      <Filter>Header Files\Utilities</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

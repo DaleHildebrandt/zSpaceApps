@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{007DEE14-88C8-44B0-AD07-B21F725082C5}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>zSpaceBase</RootNamespace>
+    <ProjectName>SpaceTimeCube</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <ExecutablePath>../Bin;$(VCInstallDir)bin;$(WindowsSdkDir)bin\NETFX 4.0 Tools;$(WindowsSdkDir)bin;$(VSInstallDir)Common7\Tools\bin;$(VSInstallDir)Common7\tools;$(VSInstallDir)Common7\ide;$(ProgramFiles)\HTML Help Workshop;$(FrameworkSDKDir)\bin;$(MSBuildToolsPath32);$(VSInstallDir);$(SystemRoot)\SysWow64;$(FxCopDir);$(PATH);</ExecutablePath>
+    <IncludePath>../Inc;$(VCInstallDir)include;$(VCInstallDir)atlmfc\include;$(WindowsSdkDir)include;$(FrameworkSDKDir)\include;</IncludePath>
+    <LibraryPath>../Lib;$(VCInstallDir)lib;$(VCInstallDir)atlmfc\lib;$(WindowsSdkDir)lib;$(FrameworkSDKDir)\lib</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;ZSCommon_D.lib;ZSStereo_D.lib;ZSTracker_D.lib;openGL32.lib;glu32.lib;openglut.lib;libmathhelp_d.lib;SOIL.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\source\DataAccess\DataAccessCSV.cpp" />
+    <ClCompile Include="..\source\DataAccess\DataAccessInterface.cpp" />
+    <ClCompile Include="..\source\DrawnObjects\VisPath.cpp" />
+    <ClCompile Include="..\source\DrawnObjects\VisPlane.cpp" />
+    <ClCompile Include="..\source\DrawnObjects\VisPolyLine.cpp" />
+    <ClCompile Include="..\source\DrawnObjects\VisSphere.cpp" />
+    <ClCompile Include="..\source\DrawnObjects\VisST.cpp" />
+    <ClCompile Include="..\source\Objects\AnnotatedPoint.cpp" />
+    <ClCompile Include="..\source\Objects\ColorRGB.cpp" />
+    <ClCompile Include="..\source\Objects\DataPath.cpp" />
+    <ClCompile Include="..\source\Objects\DataPoint.cpp" />
+    <ClCompile Include="..\source\OpenGlScene.cpp" />
+    <ClCompile Include="..\source\StereoNoTracking.cpp" />
+    <ClCompile Include="..\source\Utilities\ButtonManager.cpp" />
+    <ClCompile Include="..\source\Utilities\Coordinator.cpp" />
+    <ClCompile Include="..\source\Utilities\Interval.cpp" />
+    <ClCompile Include="..\source\Utilities\ObjectTracker.cpp" />
+    <ClCompile Include="..\source\Utilities\OpenGlWindow.cpp" />
+    <ClCompile Include="..\source\Utilities\Parser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\source\DataAccess\DataAccessCSV.hpp" />
+    <ClInclude Include="..\source\DataAccess\DataAccessInterface.hpp" />
+    <ClInclude Include="..\source\DrawnObjects\VisPath.h" />
+    <ClInclude Include="..\source\DrawnObjects\VisPlane.h" />
+    <ClInclude Include="..\source\DrawnObjects\VisPolyLine.h" />
+    <ClInclude Include="..\source\DrawnObjects\VisSphere.h" />
+    <ClInclude Include="..\source\DrawnObjects\VisST.h" />
+    <ClInclude Include="..\source\Objects\AnnotatedPoint.h" />
+    <ClInclude Include="..\source\Objects\ColorRGB.h" />
+    <ClInclude Include="..\source\Objects\DataPath.h" />
+    <ClInclude Include="..\source\Objects\DataPoint.hpp" />
+    <ClInclude Include="..\source\OpenGlScene.h" />
+    <ClInclude Include="..\source\Utilities\ButtonManager.h" />
+    <ClInclude Include="..\source\Utilities\Coordinator.hpp" />
+    <ClInclude Include="..\source\Utilities\Interval.hpp" />
+    <ClInclude Include="..\source\Utilities\ObjectTracker.h" />
+    <ClInclude Include="..\source\Utilities\OpenGlWindow.h" />
+    <ClInclude Include="..\source\Utilities\Parser.hpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
